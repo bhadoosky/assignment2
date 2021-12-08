@@ -1,0 +1,41 @@
+h3{
+    display: inline-block; 
+    margin-bottom: 2%;
+}
+span {
+    color: red;
+
+}
+nav {
+    text-align:right;
+    display: inline-block;
+    margin: left 40px;
+    margin-right: 10px;
+    width: 90%;
+}
+button{
+    color:white;
+    border-radius: 20px;
+    background-color: red;
+    font-size: medium;
+    padding: 2px;
+    border: none;
+}
+body{
+    background-image: url(../web.png);
+}
+section{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding: 6px;
+    margin-top: 20%;
+    margin-right: 20px;
+    background-color: red;
+    border-radius: 10px;
+
+    
+}
